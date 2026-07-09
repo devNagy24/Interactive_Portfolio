@@ -1,6 +1,6 @@
 # Interactive Developer Portfolio
 
-A deployable Vite + React portfolio for a software developer and database administrator.
+A deployable Vite + React portfolio I've built for myself.
 
 ## Edit Your Content
 
