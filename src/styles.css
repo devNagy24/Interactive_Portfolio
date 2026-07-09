@@ -827,4 +827,8 @@ footer {
   .cursor-glow {
     display: none;
   }
+
+  .pulse-dot {
+    animation: pulse 2.4s ease-out infinite !important;
+  }
 }
