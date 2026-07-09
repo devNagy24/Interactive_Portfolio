@@ -151,6 +151,7 @@ export const projects = [
       "This portfolio: a deployable React site with motion, responsive sections, command palette navigation, and data-driven content.",
     stack: ["React", "Vite", "CSS", "GitHub Pages"],
     status: "In progress",
+    link: "https://github.com/devNagy24/Interactive_Portfolio",
   },
 ];
 
