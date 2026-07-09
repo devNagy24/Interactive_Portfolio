@@ -162,7 +162,7 @@ export const skillGroups = [
   },
   {
     label: "Frameworks",
-    skills: ["React", "React Native", "Node.js", ".NET 8", "WPF", "Spring Boot", "Laravel", "Django", "Flask", "FastAPI"],
+    skills: ["React", "React Native", "Vite", "Node.js", ".NET 8", "WPF", "Spring Boot", "Laravel", "Django", "Flask", "FastAPI"],
   },
   {
     label: "Database",
